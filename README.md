@@ -32,9 +32,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/chaan_junior)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/Chaan-Junior)
 
-<!-- Animated GitHub stats -->
-![GitHub Stats](https://github.com/Chaan-Junior/Chaan-Junior/raw/main/assets/github-stats-animated.svg)
-
-<!-- GitHub Activity Graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chaan-Junior&theme=react-dark)
-
+<!-- GitHub Streak Stats -->
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Chaan-Junior&theme=react-dark)
