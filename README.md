@@ -1,8 +1,8 @@
 <!-- GitHub Profile README -->
 # Hi there 👋
 
-I'm a Software Engineering undergraduate at SLIIT with a passion for web development. I'm currently focusing on learning <br>
-the MERN stack and enjoy collaborating on exciting projects.
+I'm a Software Engineering undergraduate at SLIIT with a passion for web development. I'm currently <br>
+focusing on learning the MERN stack and enjoy collaborating on exciting projects.
 
 ## 🛠️ Skills
 [![HTML5,React,JavaScript,Kotlin,CSS3,MySQL](https://skillicons.dev/icons?i=html,react,javascript,kotlin,css,MySQL)]()
