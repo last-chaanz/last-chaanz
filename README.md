@@ -1,14 +1,16 @@
 <!-- GitHub Profile README -->
-<b> Hi there 👋, I'm Chanidu Senevirathne </b>
+### Hi there 👋, I'm Chanidu Senevirathne
 <hr>
 
 - 🖥️ SE Undergraduate @ SLIIT
 - 📗 Learning ......
 
+<br> <br>
+
 [![HTML5,React,JavaScript,Kotlin,CSS3,MySQL](https://skillicons.dev/icons?i=html,react,javascript,kotlin,css,mysql)]()
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaanjunior/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/chaan_junior)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/Chaan-Junior)
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile)
+- [![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/your-instagram-profile)
+- [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/your-twitter-profile)
