@@ -3,14 +3,15 @@
 <hr>
 
 - 🖥️ SE Undergraduate @ SLIIT
-- 📗 Learning ......
-
-<br> <br>
+- 🔌 Currently Learning MERN
+- 🔋 Like to Collaborate
+<br> 
 
 [![HTML5,React,JavaScript,Kotlin,CSS3,MySQL](https://skillicons.dev/icons?i=html,react,javascript,kotlin,css,mysql)]()
 
 ### 🌐 Connect with Me
 
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile)
-- [![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/your-instagram-profile)
-- [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/your-twitter-profile)
+- Linkedin  :  www.linkedin.com/in/chanidu-senevirathne
+- Instagram :  https://www.instagram.com/
+- Twitter   :  www.twitter.com/
+  
