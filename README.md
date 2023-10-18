@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 # Hi there 👋, I'm Chanidu
 
-I'm a Software Engineering student at SLIIT with a strong interest in web development. Right now, I'm dedicated to learning the MERN stack. <br>
+I'm a Software Engineering student at SLIIT with a strong interest in web development. <br> Right now, I'm dedicated to learning the MERN stack.
 I find joy in collaborating on exciting projects and working with others to create amazing things.
 
 ## 🛠️ Skills
