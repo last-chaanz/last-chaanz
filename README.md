@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-![Header]([https://your-header-image-url.com](https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif))
+![Header]((https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif))
 
 ### Hi there👋, I'm Chanidu Senevirathne
 
