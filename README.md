@@ -1,8 +1,8 @@
 <!-- GitHub Profile README -->
 # Hi there 👋, I'm Chanidu
 
-I'm a Software Engineering undergraduate at SLIIT with a passion for web development. I'm currently <br>
-focusing on learning the MERN stack and enjoy collaborating on exciting projects.
+I'm a Software Engineering student at SLIIT with a strong interest in web development. Right now, I'm dedicated to learning the MERN stack. <br>
+I find joy in collaborating on exciting projects and working with others to create amazing things.
 
 ## 🛠️ Skills
 [![HTML5,React,JavaScript,Kotlin,CSS3,MySQL](https://skillicons.dev/icons?i=html,react,javascript,kotlin,css,MySQL)]()
