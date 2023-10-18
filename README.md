@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
-# Hi there 👋
+# Hi there 👋, I'm Chanidu
 
-- I'm a Software Engineering undergraduate at SLIIT with a passion for web development. I'm currently <br>
+I'm a Software Engineering undergraduate at SLIIT with a passion for web development. I'm currently <br>
 focusing on learning the MERN stack and enjoy collaborating on exciting projects.
 
 ## 🛠️ Skills
