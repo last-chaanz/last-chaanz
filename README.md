@@ -1,11 +1,9 @@
 <!-- GitHub Profile README -->
-### <b>Hi there 👋, I'm Chanidu Senevirathne </b>
+<b> Hi there 👋, I'm Chanidu Senevirathne </b>
 <hr>
 
-- 🔭 I’m currently working on a [project]([https://your-project-url.com](https://github.com/Chaan-Junior/Eyewear-Management.git)).
-- 🌱 I’m continuously learning and exploring new technologies and frameworks to stay up-to-date.
-- 👯 I’m looking to collaborate on innovative projects and connect with fellow developers around the world.
-- 💬 Ask me about web development, programming languages, or anything tech-related.
+- 🖥️ SE Undergraduate @ SLIIT
+- 📗 Learning ......
 
 [![HTML5,React,JavaScript,Kotlin,CSS3,MySQL](https://skillicons.dev/icons?i=html,react,javascript,kotlin,css,mysql)]()
 
