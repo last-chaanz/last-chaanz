@@ -1,11 +1,10 @@
 <!-- GitHub Profile README -->
 
-![Header]((https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif))
-https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif
+![Header](https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif)
 
-### Hi there👋, I'm Chanidu Senevirathne
+### Hi there 👋
 
-A passionate developer excited about open-source projects, web development, and coding. Welcome to my GitHub profile! Here are a few things about me:
+I'm Chaan Junior, a passionate developer excited about open-source projects, web development, and coding. Welcome to my GitHub profile! Here are a few things about me:
 
 - 🔭 I’m currently working on a [project](https://your-project-url.com) that's going to change the world!
 - 🌱 I’m continuously learning and exploring new technologies and frameworks to stay up-to-date.
