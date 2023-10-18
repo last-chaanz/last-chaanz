@@ -2,11 +2,11 @@
 
 ![Header](https://your-header-image-url.com)
 
-### Hi there 👋
+### Hi there👋, I'm Chanidu Senevirathne
 
-I'm Chaan Junior, a passionate developer excited about open-source projects, web development, and coding. Welcome to my GitHub profile! Here are a few things about me:
+A passionate developer excited about open-source projects, web development, and coding. Welcome to my GitHub profile! Here are a few things about me:
 
-- 🔭 I’m currently working on some exciting web projects that will change the way we interact with technology.
+- 🔭 I’m currently working on a [project](https://your-project-url.com) that's going to change the world!
 - 🌱 I’m continuously learning and exploring new technologies and frameworks to stay up-to-date.
 - 👯 I’m looking to collaborate on innovative projects and connect with fellow developers around the world.
 - 💬 Ask me about web development, programming languages, or anything tech-related.
@@ -28,6 +28,9 @@ I'm Chaan Junior, a passionate developer excited about open-source projects, web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaanjunior/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/chaan_junior)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/Chaan-Junior)
+
+<!-- Animated GitHub stats -->
+![GitHub Stats](https://github.com/Chaan-Junior/Chaan-Junior/raw/main/assets/github-stats-animated.svg)
 
 <!-- GitHub Activity Graph -->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chaan-Junior&theme=react-dark)
