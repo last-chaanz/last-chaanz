@@ -5,12 +5,11 @@
 - 🖥️ SE Undergraduate @ SLIIT
 - 🔌 Currently Learning MERN
 - 🔋 Like to Collaborate
-<br> 
+  
 ## TECHNOLOGIES
+
 [![HTML5,React,JavaScript,Kotlin,CSS3,MySQL](https://skillicons.dev/icons?i=html,react,javascript,kotlin,css,MySQL)]()
 
-
-<hr>
 ## CONNECT WITH ME
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
