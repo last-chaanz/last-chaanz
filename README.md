@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 ### Hi there 👋, I'm Chanidu Senevirathne
-
+<hr>
 A passionate developer excited about open-source projects, web development, and coding. Welcome to my GitHub profile! Here are a few things about me:
 
 - 🔭 I’m currently working on a [project]([https://your-project-url.com](https://github.com/Chaan-Junior/Eyewear-Management.git)).
