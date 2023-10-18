@@ -10,7 +10,7 @@
 
 ### 🛠️ Technologies and Tools
 
-[![HTML5, React, JavaScript, Java, Kotlin, Git, CSS3, MySQL](https://skillicons.dev/icons?i=html,react,javascript,java,kotlin,git,css,mysql)]()
+[![HTML5, React, JavaScript, Java, Kotlin, Git, CSS3, MySQL,MongoDB](https://skillicons.dev/icons?i=html,react,javascript,java,kotlin,git,css,mysql,mongodb)]()
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
