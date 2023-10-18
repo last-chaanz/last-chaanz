@@ -7,9 +7,7 @@
 - 👯 I’m looking to collaborate on innovative projects and connect with fellow developers around the world.
 - 💬 Ask me about web development, programming languages, or anything tech-related.
 
-[![HTML5, React, JavaScript, Java, Kotlin, Git, CSS3, MySQL,MongoDB](https://skillicons.dev/icons?i=html,react,javascript,java,kotlin,git,css,mysql,MongoDB)]()
-[![TS, React, NEST, NEXT](https://skillicons.dev/icons?i=ts,react,nestjs,nextjs)]()
-
+[![HTML5,React,JavaScript,Kotlin,CSS3,MySQL](https://skillicons.dev/icons?i=html,react,javascript,kotlin,css,mysql)]()
 
 ### 🌐 Connect with Me
 
