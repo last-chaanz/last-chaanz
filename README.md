@@ -40,14 +40,3 @@ A passionate developer excited about open-source projects, web development, and 
 <!-- GitHub Activity Graph -->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chaan-Junior&theme=react-dark)
 
-<!-- GitHub Streak Stats -->
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Chaan-Junior&theme=react-dark)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaan-Junior&layout=compact&theme=react-dark)
-
-<!-- GitHub Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=Chaan-Junior&theme=onedark)
-
-<!-- GitHub Contribution Grid Snake -->
-![Snake Animation](https://raw.githubusercontent.com/Chaan-Junior/Chaan-Junior/output/github-contribution-grid-snake.svg)
