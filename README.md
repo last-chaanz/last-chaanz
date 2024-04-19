@@ -5,7 +5,7 @@ I'm a Software Engineering student at SLIIT with a strong interest in web develo
 I find joy in collaborating on exciting projects and working with others to create amazing things.
 
 ## 🛠️ Skills
-[![HTML5,React,JavaScript,Nodejs,Postman,Express,CSS3,Java,MySQL,MongoDb](https://skillicons.dev/icons?i=html,react,javascript,nodejs,postman,express,css,java,MySQL,mongodb)]()
+[![HTML5,React,JavaScript,Nodejs,Postman,Express,CSS3,Java,MySQL,MongoDb](https://skillicons.dev/icons?i=html,react,javascript,nodejs,postman,express,css,java,mySQL,mongodb)]()
 
 ## 📚 Learning
 - Front-end development with React
