@@ -9,7 +9,7 @@ I find joy in collaborating on exciting projects and working with others to crea
 ## 🛠️ Skills
 
 [![HTML5,React,JavaScript,Nodejs,Postman,Express,CSS3,Java,MongoDb,MySQL,TypeScript](https://skillicons.dev/icons?i=html,react,javascript,nodejs,postman,typescript)]() <br>
-[![Express,CSS3,Java,MongoDb,MySQL](https://skillicons.dev/icons?i=express,css,java,mongodb,mysql)]()
+[![Express,CSS3,Java,MongoDb,MySQL,Nextjs](https://skillicons.dev/icons?i=express,css,java,mongodb,mysql,nextjs)]()
 
 ## 📚 Learning
 
