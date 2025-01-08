@@ -1,53 +1,57 @@
 <!-- GitHub Profile README -->
 
-# Hi there! 👋 I'm Chanidu
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=1E90FF&width=435&lines=Hey+there!+👋+I'm+Chanidu.;Welcome+to+my+GitHub+Profile.;Let's+build+amazing+things+together!" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/102488707/225525413-451cd641-ec2c-45c4-94e1-df98bb8c98cb.gif" alt="Coding GIF" width="350" />
+</div>
+
+---
+
+# 🌟 About Me
 
 🎓 **Software Engineering Student at SLIIT**  
-🌟 Aspiring **Full-Stack Developer** | Passionate about **Web Development**
-
-I'm on a journey to master the **MERN stack** and transform ideas into impactful solutions. I love collaborating on creative projects, exploring innovative technologies, and constantly learning. 🚀
+🌟 Aspiring **Full-Stack Developer** | Passionate about **Web Development**  
+💡 Currently diving into the world of **MERN Stack** and exploring **innovative technologies**!
 
 ---
 
-## 🔧 Tech Stack & Skills
+## 🚀 Tech Stack
 
 <div align="center">
-  <!-- Row 1 -->
-  [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-  [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
-  [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind" alt="Front-End Skills" />
 </div>
-
 <div align="center">
-  <!-- Row 2 -->
-  [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-  [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-  [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman,git,github" alt="Back-End & Tools" />
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 What I'm Learning
 
-- **Front-End Development**: Advanced concepts with React (hooks, state management)
-- **Back-End Development**: Building RESTful APIs with Express and Node.js
-- **Database Management**: Query optimization with MongoDB and MySQL
-- **DevOps**: Docker, CI/CD, and deployment strategies
+- **Front-End Development**: Advanced React and state management
+- **Back-End Development**: RESTful APIs with Node.js
+- **Database Management**: Schema design with MongoDB and MySQL
+- **DevOps**: CI/CD pipelines and Docker
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanidu-senevirathne)  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanidu.11/)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+  <a href="https://www.linkedin.com/in/chanidu-senevirathne" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/chanidu.11/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
@@ -55,28 +59,34 @@ I'm on a journey to master the **MERN stack** and transform ideas into impactful
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaan-slipz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaan-slipz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaan-slipz&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaan-slipz&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaan-slipz" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaan-slipz&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🌟 Fun Stuff
+## 🎨 Fun Stuff
 
-### 🎨 Developer Personality
+### 🖌️ Developer Personality
 - **🧠 Strengths**: Creative problem-solving, attention to detail, and teamwork
-- **💡 Fun Fact**: I once fixed a bug at 3 AM and felt like a superhero!
+- **💡 Fun Fact**: I once built a project in under 24 hours during a hackathon!
 
 ### 📅 Weekly Coding Activity
 [![Wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/)
 
 ---
 
-🚀 **Let’s build something amazing together!**  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+✨ **Let's create something extraordinary together!**  
