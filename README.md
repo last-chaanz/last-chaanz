@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=1E90FF&width=435&lines=Hey+there!+👋+I'm+Chanidu.;Welcome+to+my+GitHub+Profile.;Let's+build+amazing+things+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=1E90FF&width=435&lines=Hello+there!+👋+I'm+Chanidu.;Software+Engineering+Student.;Passionate+about+Full-Stack+Development!" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,9 +14,8 @@
 
 # 🌟 About Me
 
-🎓 **Software Engineering Student at SLIIT**  
-🌟 Aspiring **Full-Stack Developer** | Passionate about **Web Development**  
-💡 Currently diving into the world of **MERN Stack** and exploring **innovative technologies**!
+Hi! I'm **Chanidu**, a Software Engineering student at **SLIIT**, and I'm passionate about **Full-Stack Web Development**.  
+Currently, I'm on a journey to master the **MERN stack** and explore emerging technologies. I love building impactful projects and collaborating with like-minded individuals. 🚀
 
 ---
 
@@ -31,32 +30,7 @@
 
 ---
 
-## 🌱 What I'm Learning
-
-- **Front-End Development**: Advanced React and state management
-- **Back-End Development**: RESTful APIs with Node.js
-- **Database Management**: Schema design with MongoDB and MySQL
-- **DevOps**: CI/CD pipelines and Docker
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/chanidu-senevirathne" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/chanidu.11/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
+## 📈 My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaan-slipz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -72,21 +46,30 @@
 
 ---
 
-## 🎨 Fun Stuff
+## 🌱 What I'm Currently Learning
 
-### 🖌️ Developer Personality
-- **🧠 Strengths**: Creative problem-solving, attention to detail, and teamwork
-- **💡 Fun Fact**: I once built a project in under 24 hours during a hackathon!
-
-### 📅 Weekly Coding Activity
-[![Wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/)
+- **Front-End Development**: Advanced React, state management, and performance optimization.
+- **Back-End Development**: RESTful APIs, authentication, and real-time data handling.
+- **Database Management**: Designing efficient schemas for MongoDB and MySQL.
+- **Deployment**: Docker, CI/CD pipelines, and cloud platforms like AWS.
 
 ---
+
+## 🎨 Fun Stuff
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
+### 🔥 Weekly Coding Stats
+[![Wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/)
+
 ---
 
-✨ **Let's create something extraordinary together!**  
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quote" />
+</div>
+
+---
+
+✨ **Let’s create something extraordinary together!**
