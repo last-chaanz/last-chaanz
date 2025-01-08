@@ -8,8 +8,8 @@ I find joy in collaborating on exciting projects and working with others to crea
 
 ## 🛠️ Frontend
 
-[![HTML5,React,JavaScript,Nodejs,Postman,Express,CSS3,Java,MongoDb,MySQL,TypeScript,Git,Sass,Docker](https://skillicons.dev/icons?i=html,react,javascript,nodejs,postman,typescript,git,sass,docker)]() <br>
-[![Express,CSS3,Figma,MongoDb,GitHub,MySQL,Nextjs,Tailwind,Bootstrap](https://skillicons.dev/icons?i=express,css,figma,mongodb,github,mysql,nextjs,tailwind,bootstrap)]()
+[![HTML5,React,JavaScript,Nodejs,Postman,Express,CSS3,Java,MongoDb,MySQL,TypeScript,Nextjs,Tailwind,Docker](https://skillicons.dev/icons?i=html,react,javascript,nodejs,postman,typescript,nextjs,tailwind,docker)]() <br>
+[![Express,CSS3,Figma,MongoDb,GitHub,MySQL,Git,Sass,Bootstrap](https://skillicons.dev/icons?i=express,css,figma,mongodb,github,mysql,git,sass,bootstrap)]()
 
 ## 📚 Learning
 
