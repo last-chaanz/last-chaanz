@@ -41,7 +41,7 @@ Currently, I'm on a journey to master the **MERN stack** and explore emerging te
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaan-slipz&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=chaan-slipz&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
