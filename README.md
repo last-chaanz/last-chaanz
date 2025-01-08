@@ -5,8 +5,7 @@
 🎓 **Software Engineering Student at SLIIT**  
 🌟 Aspiring **Full-Stack Developer** | Passionate about **Web Development**
 
-I'm on a journey to master the **MERN stack** and transform ideas into impactful solutions. I love collaborating on
-creative projects, exploring innovative technologies, and constantly learning. 🚀
+I'm on a journey to master the **MERN stack** and transform ideas into impactful solutions. I love collaborating on creative projects, exploring innovative technologies, and constantly learning. 🚀
 
 ---
 
@@ -72,12 +71,10 @@ creative projects, exploring innovative technologies, and constantly learning. �
 ## 🌟 Fun Stuff
 
 ### 🎨 Developer Personality
-
 - **🧠 Strengths**: Creative problem-solving, attention to detail, and teamwork
 - **💡 Fun Fact**: I once fixed a bug at 3 AM and felt like a superhero!
 
 ### 📅 Weekly Coding Activity
-
 [![Wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/)
 
 ---
