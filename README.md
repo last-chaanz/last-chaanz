@@ -1,75 +1,30 @@
 <!-- GitHub Profile README -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=1E90FF&width=435&lines=Hello+there!+👋+I'm+Chanidu.;Software+Engineering+Student.;Passionate+about+Full-Stack+Development!" alt="Typing SVG" />
-</div>
+# Hi there 👋, I'm Chanidu
 
----
+I'm a Software Engineering student at SLIIT with a strong interest in web development. Right now, I'm dedicated to
+learning <br> the MERN stack.
+I find joy in collaborating on exciting projects and working with others to create amazing things.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/102488707/225525413-451cd641-ec2c-45c4-94e1-df98bb8c98cb.gif" alt="Coding GIF" width="350" />
-</div>
+## 🛠️ Skills
 
----
+[![HTML5,React,JavaScript,Nodejs,Postman,Express,CSS3,Java,MongoDb,MySQL,TypeScript,Git,Tailwind](https://skillicons.dev/icons?i=html,react,javascript,nodejs,postman,typescript,git,tailwind)]() <br>
+[![Express,CSS3,Figma,MongoDb,GitHub,MySQL,Nextjs,Sass,Bootstrap](https://skillicons.dev/icons?i=express,css,figma,mongodb,github,mysql,nextjs,sass,bootstrap)]()
 
-# 🌟 About Me
+## 📚 Learning
 
-Hi! I'm **Chanidu**, a Software Engineering student at **SLIIT**, and I'm passionate about **Full-Stack Web Development**.  
-Currently, I'm on a journey to master the **MERN stack** and explore emerging technologies. I love building impactful projects and collaborating with like-minded individuals. 🚀
+- Front-end development with React
+- Back-end development with Node.js
+- Building RESTful APIs
+- Database design and management
 
----
+## 🌐 Connect with Me
 
-## 🚀 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanidu-senevirathne)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanidu.11/)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind" alt="Front-End Skills" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman,git,github" alt="Back-End & Tools" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaan-slipz&show_icons=true&locale=en&layout=compact" alt="chaan-slipz" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaan-slipz&show_icons=true&locale=en" alt="chaan-slipz" /></p>
 
-## 📈 My Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaan-slipz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</div>  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaan-slipz&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</div>  
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=chaan-slipz&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌱 What I'm Currently Learning
-
-- **Front-End Development**: Advanced React, state management, and performance optimization.
-- **Back-End Development**: RESTful APIs, authentication, and real-time data handling.
-- **Database Management**: Designing efficient schemas for MongoDB and MySQL.
-- **Deployment**: Docker, CI/CD pipelines, and cloud platforms like AWS.
-
----
-
-## 🎨 Fun Stuff
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-### 🔥 Weekly Coding Stats
-[![Wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/)
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quote" />
-</div>
-
----
-
-✨ **Let’s create something extraordinary together!**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaan-slipz&" alt="chaan-slipz" /></p>
