@@ -1,59 +1,77 @@
 <!-- GitHub Profile README -->
 
-# Hi there 👋, I'm Chanidu
+# Hi there! 👋 I'm Chanidu
 
-I'm a **Software Engineering student at SLIIT** with a strong passion for web development. Currently, I'm focused on mastering the **MERN stack**.  
-I enjoy collaborating on exciting projects and working with others to create impactful solutions.
+🎓 **Software Engineering Student at SLIIT**  
+🌟 Aspiring **Full-Stack Developer** | Passionate about **Web Development**
 
----
-
-## 🛠️ Skills
-
-[![HTML5](https://skillicons.dev/icons?i=html)]()
-[![CSS3](https://skillicons.dev/icons?i=css)]()
-[![JavaScript](https://skillicons.dev/icons?i=javascript)]()
-[![React](https://skillicons.dev/icons?i=react)]()
-[![Node.js](https://skillicons.dev/icons?i=nodejs)]()
-[![Express.js](https://skillicons.dev/icons?i=express)]()
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)]()
-[![TypeScript](https://skillicons.dev/icons?i=typescript)]()
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)]()
-[![Git](https://skillicons.dev/icons?i=git)]()
-[![MySQL](https://skillicons.dev/icons?i=mysql)]()
-[![Postman](https://skillicons.dev/icons?i=postman)]()
-[![Figma](https://skillicons.dev/icons?i=figma)]()
-[![Next.js](https://skillicons.dev/icons?i=nextjs)]()
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
-[![Sass](https://skillicons.dev/icons?i=sass)]()
+I'm on a journey to master the **MERN stack** and turn ideas into impactful solutions. I love collaborating on creative projects and exploring the latest tech trends. 🚀
 
 ---
 
-## 📚 Currently Learning
+## 🔧 Tech Stack & Skills
 
-- **Front-end development**: Advanced concepts in React.js
-- **Back-end development**: Building scalable APIs with Node.js and Express.js
-- **Database management**: Designing and managing schemas with MongoDB and MySQL
-- **DevOps basics**: Git workflows and CI/CD pipelines
+### Front-End
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)  
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)  
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)  
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)  
+[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+
+### Back-End
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)  
+[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)  
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+
+### Databases & Tools
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)  
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+
+### Other Tools
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)  
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
 ---
 
-## 🌐 Connect with Me
+## 🌱 Currently Learning
+
+- **Advanced Front-End Development**: React hooks, state management, and performance optimization
+- **Back-End Development**: RESTful APIs and real-time communication
+- **Database Management**: Designing efficient schemas and query optimization
+- **Deployment & DevOps**: Docker, CI/CD pipelines
+
+---
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanidu-senevirathne)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanidu.11/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanidu.11/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaan-slipz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaan-slipz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>  
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaan-slipz&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaan-slipz&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>  
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaan-slipz&" alt="GitHub Streak" />
-</p>
+---
+
+## 🎨 Fun Stats
+
+- **👨‍💻 Hours Coded This Week**: [![Wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/)
+- **⚡ Fun Fact**: Did you know the first programmer was Ada Lovelace? 🧡
+
+---
+
+🚀 Let’s build something amazing together!  
