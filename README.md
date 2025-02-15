@@ -15,7 +15,7 @@ Currently, I'm focused on mastering the **MERN stack** to create dynamic and res
 
 ## 📚 Learning
 
-- **Front-End Development**: Advanced concepts with React (hooks, state management)
+- **Front-End Development**: Advanced concepts with React.
 - **Back-End Development**: Building RESTful APIs with Express and Node.js
 - **Database Management**: Query optimization with MongoDB and MySQL
 - **DevOps**: Docker, CI/CD, and deployment strategies 
